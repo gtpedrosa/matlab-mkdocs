@@ -1,6 +1,6 @@
-# windQuality
+# myProject
 
-Biblioteca para garantia de qualidade de dados anemométricos.
+My awesome documentation.
 
 ## Commands
 
